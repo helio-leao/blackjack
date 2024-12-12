@@ -1,6 +1,6 @@
 import { Card } from "../BlackJack";
 
-const IMAGES_PATH = "./src/assets/images/svg_playing_cards/";
+const IMAGES_PATH = "/assets/images/svg_playing_cards/";
 
 type HandProps = {
   cards: Card[];
